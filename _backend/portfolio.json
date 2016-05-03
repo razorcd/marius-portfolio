@@ -1,0 +1,105 @@
+{
+  "illustration": {
+    "img1": {
+      "url": "portfolio/Illustration/1_Marius_Lashing_Lilim.jpg",
+      "thumb": "portfolio/Illustration/1_Marius_Lashing_Lilim_Thumb.jpg"
+    },
+    "img2": {
+      "url": "portfolio/Illustration/2_Marius_Bota_Anniversary_Dragon.jpg",
+      "thumb": "portfolio/Illustration/2_Marius_Bota_Anniversary_Dragon_Thumb.jpg"
+    },
+    "img3": {
+      "url": "portfolio/Illustration/3_Marius_Bota_Guild_of_Gollems.jpg",
+      "thumb": "portfolio/Illustration/3_Marius_Bota_Guild_of_Gollems_Thumb.jpg"
+    },
+    "img4": {
+      "url": "portfolio/Illustration/4_Marius_Bota_Gnome_Welder.jpg",
+      "thumb": "portfolio/Illustration/4_Marius_Bota_Gnome_Welder_Thumb.jpg"
+    },
+    "img5": {
+      "url": "portfolio/Illustration/5_Marius_Bota_Goblin_Shaman.jpg",
+      "thumb": "portfolio/Illustration/5_Marius_Bota_Goblin_Shaman_Thumb.jpg"
+    },
+    "img6": {
+      "url": "portfolio/Illustration/6_Marius_Bota_Beneath_The_Ice.jpg",
+      "thumb": "portfolio/Illustration/6_Marius_Bota_Beneath_The_Ice_Thumb.jpg"
+    },
+    "img7": {
+      "url": "portfolio/Illustration/7_Marius_Bota_Ape_Business.jpg",
+      "thumb": "portfolio/Illustration/7_Marius_Bota_Ape_Business_Thumb.jpg"
+    },
+    "img8": {
+      "url": "portfolio/Illustration/8_Marius_Bota_Golden_Mercury.jpg",
+      "thumb": "portfolio/Illustration/8_Marius_Bota_Golden_Mercury_Thumb.jpg"
+    },
+    "img9": {
+      "url": "portfolio/Illustration/9_Marius_Bota_Axe.jpg",
+      "thumb": "portfolio/Illustration/9_Marius_Bota_Axe_Thumb.jpg"
+    }
+  },
+  
+  "characters":{
+      "img1":{
+        "url":"portfolio/characters/1_Marius_Bota_Lion_Warrior.jpg",
+        "thumb":"portfolio/characters/1_Marius_Bota_Lion_Warrior_Thumb.jpg"
+      },
+        "img2":{
+        "url":"portfolio/characters/2_Marius_Bota_Orc_Shaman.jpg",
+        "thumb":"portfolio/characters/2_Marius_Bota_Orc_Shaman_Thumb.jpg"
+      },
+        "img3":{
+        "url":"portfolio/characters/3_Marius_Bota_Frog_Shaman.jpg",
+        "thumb":"portfolio/characters/3_Marius_Bota_Frog_Shaman_Thumb.jpg"
+      },
+        "img4":{
+        "url":"portfolio/characters/4_Marius_Bota_Geologist.jpg",
+        "thumb":"portfolio/characters/4_Marius_Bota_Geologist_Thumb.jpg"
+      }
+  },
+  
+  "environments":{
+	  "img1":{
+          "url":"portfolio/environments/1_Marius_Bota_The_Lab.jpg",
+          "thumb":"portfolio/environments/1_Marius_Bota_The_Lab_Thumb.jpg"
+      },
+      "img2":{
+          "url":"portfolio/environments/2_Marius_Bota_Kites.jpg",
+          "thumb":"portfolio/environments/2_Marius_Bota_Kites_Thumb.jpg"
+      },
+      "img3":{
+          "url":"portfolio/environments/3_Marius_Bota_Cave.jpg",
+          "thumb":"portfolio/environments/3_Marius_Bota_Cave_Thumb.jpg"
+      },
+      "img4":{
+          "url":"portfolio/environments/4_Marius_Bota_Tara.jpg",
+          "thumb":"portfolio/environments/4_Marius_Bota_Tara_Thumb.jpg"
+      },
+      "img5":{
+          "url":"portfolio/environments/5_Marius_Bota_Wihtbearg.jpg",
+          "thumb":"portfolio/environments/5_Marius_Bota_Wihtbearg_Thumb.jpg"
+      }
+  },
+  
+  "personal":{
+      "img1":{
+          "url":"portfolio/personal/1_Marius_Bota_Of_Stone_Print.jpg",
+          "thumb":"portfolio/personal/1_Marius_Bota_Of_Stone_Print_Thumb.jpg"
+      },
+      "img2":{
+          "url":"portfolio/personal/4_Marius_Bota_Forrest_Enchantress.jpg",
+          "thumb":"portfolio/personal/4_Marius_Bota_Forrest_Enchantress_Thumb.jpg"
+      },
+      "img3":{
+          "url":"portfolio/personal/2_Marius_Bota_Noble_Defence_Print.jpg",
+          "thumb":"portfolio/personal/2_Marius_Bota_Noble_Defence_Print_Thumb.jpg"
+      },
+      "img4":{
+          "url":"portfolio/personal/3_Marius_Bota_Alter_Ego.jpg",
+          "thumb":"portfolio/personal/3_Marius_Bota_Alter_Ego_Thumb.jpg"
+      },
+      "img5":{
+          "url":"portfolio/personal/5_Marius_Bota_The_Witch.jpg",
+          "thumb":"portfolio/personal/5_Marius_Bota_The_Witch_Thumb.jpg"
+      }
+  }
+}
