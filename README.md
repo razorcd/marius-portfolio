@@ -5,6 +5,6 @@
 
 www.mariusbota.com
 
-COPYRIGHT 2016
+COPYRIGHT 2014 - 2016
 All rights reserved. Property of Cristian Dugacicu and Marius Bota. 
 Not for public or private distribution.
